@@ -1,0 +1,7 @@
+﻿RGName,Location,ENV,Department
+AHSCCNetRG,canadacentral,Prod,Networking
+AHSCCStoRG,canadaeast,Prod,Storage
+AHSCCAppRG,canadaeast,NonProd,Application
+AHSCCKeyRG,canadacentral,NonProd,KeyVault
+AHSCCDatRG,canadacentral,NonProd,Database
+
